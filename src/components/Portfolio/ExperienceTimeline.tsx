@@ -5,18 +5,6 @@ import { Calendar, MapPin } from "lucide-react";
 
 const ExperienceTimeline = () => {
   const experiences = [
-    {
-  company: "Modamorph Tech Pvt Ltd",
-  role: "AI & Machine Learning Engineer",
-  duration: "4+ months",
-  location: "Remote",
-  achievements: [
-    "Built an AI Fashion Stylist capable of generating personalized fashion designs from textual inputs",
-    "Optimized and fine-tuned an image generation pipeline to improve visual accuracy, consistency, and style adherence",
-    "Fine-tuned an LLM to generate structured, high-quality design prompts driving downstream image synthesis"
-  ],
-  tech: ["LLMs", "Image Generation", "Computer Vision", "Natural Language Processing"]
-}
 
     {
       company: "Relové",
